@@ -85,10 +85,11 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 This project is released under the __Creative Commons Attribution 4.0__ license.
 
 ## Citation
+TODO:
 
-If you use this repository or the dataset in your work, please cite it as follows:
+<!-- If you use this repository or the dataset in your work, please cite it as follows: -->
 
-### APA
+<!-- ### APA
 
 Vicentim Perasolo, L. (2025). _A Dataset of Public Procurement Auction Results from Brazil's ComprasNet Platform (2003–2023)_ [Dataset]. GitHub repository. https://github.com/lperasolo/A-Dataset-of-Public-Procurement-Auction-Results-from-Brazil-s-ComprasNet-Platform-from-2003-to-2023/tree/master
 
@@ -102,4 +103,4 @@ Vicentim Perasolo, L. (2025). _A Dataset of Public Procurement Auction Results f
   howpublished = {GitHub repository},
   url          = {https://github.com/lperasolo/A-Dataset-of-Public-Procurement-Auction-Results-from-Brazil-s-ComprasNet-Platform-from-2003-to-2023/tree/master},
 }
-``` 
+```  -->
