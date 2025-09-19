@@ -1,7 +1,7 @@
 # A Dataset of Public Procurement Auction Results from Brazil’s ComprasNet Platform (2003–2023)
 
 ## Overview
-This repository contains a dataset and a minimal exploratory analysis of public procurement auctions conducted on Brazil's ComprasNet platform between 2003 and 2023. The goal is to provide easy access to the raw data and accompanying Jupyter notebooks for minimal examples of potential usage.
+This repository contains a dataset and a minimal examples (for motivational purposes only) of exploratory analysis of public procurement auctions conducted on Brazil's ComprasNet platform between 2003 and 2023. The goal is to provide easy access to the raw data and accompanying Jupyter notebooks with minimal examples of potential usage which must be enhanced/improved as the reader wishes.
 
 ## Repository structure
 - `A_Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf`  
