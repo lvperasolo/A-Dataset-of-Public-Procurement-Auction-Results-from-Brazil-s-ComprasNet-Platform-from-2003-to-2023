@@ -2,8 +2,7 @@
 
 ## Overview
 This repository contains a dataset and minimal examples (for motivational purposes) 
-illustrating potential usages of our dataset in the analysis of public procurement auctions conducted on Brazil's ComprasNet platform between 2003 and 2023. The goal is to provide easy access to the data and a first direction of potential usage. The reader/users of this repository are encourage to enhance/improve our minimal analysis for the different use cases.
-
+illustrating potential usages of our dataset in the analysis of public procurement auctions conducted on Brazil's ComprasNet platform between 2003 and 2023. The goal is to provide easy access to the data and a first direction of potential usage.
 ## Repository structure
 - `A_Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf`  
   PDF document describing the dataset schema and metadata.
