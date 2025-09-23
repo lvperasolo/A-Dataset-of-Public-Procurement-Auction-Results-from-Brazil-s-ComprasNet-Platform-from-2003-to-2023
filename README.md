@@ -1,7 +1,7 @@
 # A Dataset of Public Procurement Auction Results from Brazil’s ComprasNet Platform (2003–2023)
 We aim to facilitate access to a public dataset of procurement auctions conducted via Brazil's Compras.gov.br platform from 2003 to 2023. The dataset files are found under folder `procurement_auction_data/`. In addition, we also provide minimal examples illustrating potential usages of the data. The examples are not curated/optimized (e.g. do not include preprocessing steps, etc ...) and must be enhanced/improved for real applicability. 
 
-**Note:** Brazil's government purchases take form in multiple modalities beyond reverse (reverse) auctions. The reader interested in modalities beyond the procurement auction one, can use the same data collector as ours, and do not filter for procurement auctions only (for more information, refer to A_Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf and/or contact owner of this repository).
+**Note:** Brazil's government purchases take form in multiple modalities beyond reverse (procurement) auctions. The reader interested in modalities beyond the procurement auction one, can use the same data collector as ours, and do not filter for procurement auctions only.
 
 ---
 
