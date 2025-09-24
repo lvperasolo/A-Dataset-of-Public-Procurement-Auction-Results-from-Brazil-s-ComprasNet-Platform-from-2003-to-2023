@@ -90,4 +90,4 @@ This repository is a personal project and is not affiliated with, endorsed by, o
 
 ---
 ## Contact
-For any inquiries regarding the dataset, code, or other requests, feel free to reach out to me at my [email](lucas.vicentim-perasolo@tum.de). I will do my best to get back to you in time.
+For any inquiries regarding the dataset, code, project feedback or other requests, feel free to reach out to me at my [email](lucas.vicentim-perasolo@tum.de). I will do my best to get back to you in time.
