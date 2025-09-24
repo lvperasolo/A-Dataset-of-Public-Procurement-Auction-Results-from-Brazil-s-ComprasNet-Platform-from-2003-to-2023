@@ -1,7 +1,9 @@
 # A Dataset of Public Procurement Auction Results from Brazil’s ComprasNet Platform (2003–2023)
-We aim to facilitate access to a public dataset of procurement auctions conducted via Brazil's Compras.gov.br platform from 2003 to 2023. The dataset files are found under folder `procurement_auction_data/`. In addition, we also provide minimal examples illustrating potential usages of the data. The examples are not curated/optimized (e.g. do not include preprocessing steps, etc ...) and must be enhanced/improved for real applicability. 
+We aim to facilitate access to a public dataset of procurement auctions conducted via Brazil's Compras.gov.br platform from 2003 to 2023. The data set contains information on auctioned items (detailed description), suppliers' data, dates, and other information that have been extracted from [Data Source: Portal da Transparência](https://portaldatransparencia.gov.br/download-de-dados/licitacoes). We provide a short overview of the data accompanied with unofficial English translation to support accessibility and usability, refer to `A_Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf` for more.
 
-**Note:** Brazil's government purchases take form in multiple modalities beyond reverse (procurement) auctions. The reader interested in modalities beyond the procurement auction one, can use the same data collector as ours, and do not filter for procurement auctions only.
+The dataset files are found under the folder `procurement_auction_data/`. Additionally, we provide minimal examples illustrating potential uses of the data. The examples are not curated/optimized (e.g., do not include preprocessing steps, etc) and, thus, must be enhanced/improved for real applicability. 
+
+**Note:** Public procurement in Brazil follows several modalities beyond the focus of this repository, which focuses exclusively on the procurement (reverse) auction modality. Readers interested in other modalities can refer to the same source of information we use-[Data Source: Portal da Transparência](https://portaldatransparencia.gov.br/download-de-dados/licitacoes) and work with the complete dataset and/or filter for a different modality since the original files have all modalities.
 
 ---
 
@@ -42,35 +44,35 @@ The datasets include the following CSV files:
    - ~0.17 M rows, 17 columns
    - Master auction table with metadata such as process numbers, dates, status, and values.
 
-**Note:** Refer to the provided PDF for full column descriptions and data dictionary. In practice, when reading the .csv files, we used semicolon (`;`) as separator, and `ISO-8859-1` or `cp1252` encodings to address the special characters from the Portuguese language.
-
 ---
 
 ## Installation & setup
-**TODO:** Make this simpler (Solve this)
-This project uses Python 3.13.1 (see `.procuror/pyvenv.cfg`). To set up a virtual environment and install dependencies:
+Setup and installation are not unique. In this section, we explain one way, to make use of this project, other ways also exist-so feel free to play around. 
 
+1. Clone the repository
 ```bash
-# Create and activate virtual environment
-python3.13 -m venv .venv
-source .venv/bin/activate
-
-# Install required packages (for examples)
-pip install pandas matplotlib notebook networkx
+git clone https://github.com/lvperasolo/A-Dataset-of-Public-Procurement-Auction-Results-from-Brazil-s-ComprasNet-Platform-from-2003-to-2023.git
+cd <your-location> # location in your machine
 ```
+2. (optional) Create our virtual environment 
+```python -m venv comprasVENV```
 
-*Note: You may want to install additional packages (e.g., seaborn) as needed for your analysis and/or do the installation/set up alternatively.*
+3. (optional) Activate the virtual environment:
+```source comprasVENV/bin/activate  # for linux/mac OS```,  or 
+```.\comprasVENV\Scripts\Activate.ps1 # for windows OS```
+
+4. (optional) Install our dependencies
+```pip install -r requirements.txt```
 
 ---
-
 ## License
 This project is released under the __Creative Commons Attribution 4.0__, __Open Data Commons Open Database License (ODbL) v1.0__ and __Database Contents License (DbCL) v1.0__ licenses.
 
+---
 ## Citation
 If you use this repository or the dataset in your work, please cite it as follows:
 
 ### BibTeX
-
 ```bibtex
 @misc{data2025comprasnet,
   author       = {Vicentim Perasolo, L. and Liepold, C.},
@@ -78,5 +80,14 @@ If you use this repository or the dataset in your work, please cite it as follow
   year         = {2025},
   url          = {https://github.com/lperasolo/A-Dataset-of-Public-Procurement-Auction-Results-from-Brazil-s-ComprasNet-Platform-from-2003-to-2023/tree/master},
   version      = {1.0},
-  note = {Last updated on 31.09.2025}
+  note = {Last updated on 24.09.2025}
 }
+```
+
+---
+## Disclaimer
+This repository is a personal project and is not affiliated with, endorsed by, or officially associated with any institution or organization.
+
+---
+## Contact
+For any inquiries regarding the dataset, code, or other requests, feel free to reach out to me at my [email](lucas.vicentim-perasolo@tum.de). I will do my best to get back to you in time.
