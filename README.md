@@ -8,7 +8,7 @@ The dataset files are found under the folder `procurement_auction_data/`. Additi
 ---
 
 ## Repository structure
-- `A_Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf`  
+- `Dataset_of_Public_Procurement_Auction_Results_from_Brazil_s_ComprasNet_Platform__2003__2023.pdf`  
   PDF document describing the dataset structure and other information. 
 - `procurement_auction_data/`  
   Directory containing the raw CSV data files. Files include:
