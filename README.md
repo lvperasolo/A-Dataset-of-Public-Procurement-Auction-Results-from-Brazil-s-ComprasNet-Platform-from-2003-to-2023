@@ -3,7 +3,7 @@ We aim to facilitate access to a public dataset of procurement auctions conducte
 
 The dataset files are found under the folder `procurement_auction_data/`. Additionally, we provide minimal examples illustrating potential uses of the data. The examples are not curated/optimized (e.g., do not include preprocessing steps, etc) and, thus, must be enhanced/improved for real applicability. 
 
-**Note:** Public procurement in Brazil follows several modalities beyond the focus of this repository, which focuses exclusively on the procurement (reverse) auction modality. Readers interested in other modalities can refer to the same source of information we use-[Data Source: Portal da Transparência](https://portaldatransparencia.gov.br/download-de-dados/licitacoes) and work with the complete dataset and/or filter for a different modality since the original files have all modalities.
+**Note:** Public procurement in Brazil follows several modalities beyond the focus of this repository, which focuses exclusively on the procurement (reverse) auction modality. Readers interested in other modalities can refer to the same source of information we use ([Data Source: Portal da Transparência](https://portaldatransparencia.gov.br/download-de-dados/licitacoes)) and work with the complete dataset and/or filter for a different modality since the original files have all modalities.
 
 ---
 
