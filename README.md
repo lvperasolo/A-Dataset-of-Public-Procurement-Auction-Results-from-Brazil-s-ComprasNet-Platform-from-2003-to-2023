@@ -78,7 +78,7 @@ If you use this repository or the dataset in your work, please cite it as follow
   author       = {Vicentim Perasolo, L. and Liepold, C.},
   title        = {A Dataset of Public Procurement Auction Results from Brazil’s ComprasNet Platform (2003–2023)},
   year         = {2025},
-  url          = {https://github.com/lperasolo/A-Dataset-of-Public-Procurement-Auction-Results-from-Brazil-s-ComprasNet-Platform-from-2003-to-2023/tree/master},
+  url          = {https://github.com/lvperasolo/ComprasNet-Public-Procurement-Auction-Dataset_2003-2023},
   version      = {1.0},
   note = {Last updated on 24.09.2025}
 }
@@ -90,4 +90,4 @@ This repository is a personal project and is not affiliated with, endorsed by, o
 
 ---
 ## Contact
-For any inquiries regarding the dataset, code, project feedback or other requests, feel free to reach out to me at my [email](lucas.vicentim-perasolo@tum.de). I will do my best to get back to you in time.
+For any inquiries regarding the dataset, code, project feedback .or other requests, feel free to reach out to me at my [email](lucas.vicentim-perasolo@tum.de). I will do my best to get back to you in time.
